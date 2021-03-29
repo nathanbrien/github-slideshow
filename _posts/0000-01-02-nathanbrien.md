@@ -2,5 +2,5 @@
 layout:slide
 title: "Welcome to our second slide!"
 ---
-Your Text 
+Yothis can be something good, 
 Use the left arrow to go back!
